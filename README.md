@@ -38,7 +38,9 @@ analysis, detection, and monitoring in a cybersecurity context.
 
 
  🔐 Networking
- 
+
+![Your paragraph text(1)](https://github.com/user-attachments/assets/20df6f38-ea6c-4621-afc0-db8fe7eabf3d)
+
     * All VMs use Host-only Adapter for private communication.
     * IPs are manually assigned for simplicity.
 
