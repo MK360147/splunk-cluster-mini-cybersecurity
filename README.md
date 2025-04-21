@@ -3,6 +3,8 @@ This project simulates a basic Splunk cluster on a single laptop using virtual m
 It's designed to demonstrate how log data flows from systems to a centralized platform for 
 analysis, detection, and monitoring in a cybersecurity context.
 
+The followig video is a demo of a complete splunk cluster, analyzing logs from the host
+
 https://github.com/user-attachments/assets/3eb28b3a-a3ce-4f75-b1ef-6ae3638cedaf
 
 
