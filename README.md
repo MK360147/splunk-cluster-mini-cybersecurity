@@ -1,4 +1,8 @@
 # splunk-cluster-mini-cybersecurity
+
+![MK MAHWETE(3)](https://github.com/user-attachments/assets/86575564-b3ab-4434-b383-6003bfa9c0e8)
+
+
 This project simulates a basic Splunk cluster on a single laptop using virtual machines (VMs). 
 It's designed to demonstrate how log data flows from systems to a centralized platform for 
 analysis, detection, and monitoring in a cybersecurity context.
