@@ -1,4 +1,3 @@
-# splunk-cluster-mini-cybersecurity
 
 ![MK MAHWETE(3)](https://github.com/user-attachments/assets/86575564-b3ab-4434-b383-6003bfa9c0e8)
 
